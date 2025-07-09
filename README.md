@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karabo-Seaglo
+- 👋 Hi, I’m @Karabo-Segalo
 - 👀 I’m interested in fintech
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on projects
